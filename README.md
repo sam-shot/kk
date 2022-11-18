@@ -6,7 +6,7 @@ Gritty Grammar is a website and a bot-correction app that ensures accurate spell
 
 ### Design
 
-This [link](https://www.figma.com/file/5m5Va82cgR06X1sOIQPSMZ) contains the design that will be implementd for the project.
+This [link](https://www.figma.com/file/oLw4nJNe9CdNtlZWN8jVCj/TeamGrit-team-library?node-id=0%3A1&t=puzxe3BGm0BkoLL7-0) contains the design that will be implementd for the project.
 
 ## State Management
 
@@ -34,8 +34,11 @@ Introducing a state management system in our app is to enable smooth and respons
  - `lib/models` : *This directory will hold all the model classes for the API response*.
  - `lib/repo` : *This directory will hold all the repository classes used in the project for communicating with the ViewModel.*
  - `lib/res` : *This directory will hold all the classes related to the colors, style & strings files*
+ - `lib/res/components` : *This direvtory will contain individual vomponents or widgets for the project*
+ - `lib/res/themes` : *This direvtory will contain Theme data for the project*
  - `lib/view_models` : *This directory will hold all the ViewModel-related classes with subdirectory if required.*
  - `lib/views` : *This directory will hold all the view-related classes with subdirectory as per the module & widget as well for the project.*
+ 
 
  ## Contribution Guide 
 
